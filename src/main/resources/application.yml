@@ -1,0 +1,23 @@
+server:
+    port: 8080
+    servlet:
+          context-path: /quick
+
+
+
+
+name: yiran
+
+
+person:
+      name: yiran
+      adrr: zhangsan
+
+
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://139.196.80.88:3306/yiran?useUnicode=true&useSSL=true&characterEncoding=utf8
+    name: root
+    password: 123456
